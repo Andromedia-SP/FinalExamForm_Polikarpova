@@ -1,6 +1,6 @@
 # Исправьте код так, чтобы он корректно конкатенировал строки
 
 greeting = "Hello"
-name = 'World'
+name = " world"
 
 print(greeting + name)
