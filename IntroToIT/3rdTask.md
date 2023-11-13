@@ -31,4 +31,4 @@
 
 ```
 
-### [Пусть будет, как будет, ведь как-нибудь да будет, ведь никогда же не было, чтоб не было никак](C:\Users\admin\Desktop\FinalExamForm_Polikarpova\IntroToIT\pyp.jpg)
+### ![Пусть будет, как будет, ведь как-нибудь да будет, ведь никогда же не было, чтоб не было никак](C:\Users\admin\Desktop\FinalExamForm_Polikarpova\IntroToIT\pyp.jpg)
